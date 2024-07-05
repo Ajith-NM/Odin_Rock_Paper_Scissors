@@ -45,7 +45,6 @@ h1 {
 .btn button {
     width: 150px;
     height: 150px;
-    background-color: aqua;
     overflow: hidden;
     border: 1px solid gray;
     outline: none;
