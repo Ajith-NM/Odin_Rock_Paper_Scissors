@@ -25,7 +25,7 @@ function playRound(humanChoice, computerChoice) {
 
     if (humanChoice === computerChoice) {
 
-        result.textContent = ` This round is a tie [${computerChoice} and ${humanChoice}]`
+        result.textContent = ` This round is a tie`
 
     }
     else if ((humanChoice === "rock" && computerChoice === "paper") ||
